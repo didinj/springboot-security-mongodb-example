@@ -1,0 +1,12 @@
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/SecurewebApplication.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/config/AuthManagerConfig.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/config/SecurityConfig.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/controller/AuthController.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/controller/HomeController.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/model/Role.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/model/User.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/repository/RoleRepository.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/repository/UserRepository.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/service/CustomUserDetailsService.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/service/UserService.java
+/Users/didin/SpringApps/secureweb/src/main/java/com/djamware/secureweb/service/UserServiceImpl.java

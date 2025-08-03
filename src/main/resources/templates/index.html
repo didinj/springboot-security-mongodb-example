@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Home - Spring Boot Security</title>
+    <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}" />
+  </head>
+  <body class="container mt-5">
+    <h1>Welcome, <span th:text="${username}"></span>!</h1>
+    <p>You are logged in successfully.</p>
+    <a class="btn btn-danger" th:href="@{/logout}">Logout</a>
+  </body>
+</html>
